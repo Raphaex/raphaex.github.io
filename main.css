@@ -1,4 +1,12 @@
 body {
-	height: 200%; 
+  margin: 0px;
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+	width: 80%; 
+  height: 200%; 
 	background-color: blue;
 }
