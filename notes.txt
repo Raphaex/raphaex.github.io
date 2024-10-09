@@ -1,0 +1,4 @@
+1. create main.css & index.html
+2. link css to html
+3. make the page scrollable by adjusting the heigh of the page twice its current size, imitating a classic resume on paper
+4. 
